@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 Welcome to the Weaverse GitHub organization!
 
 🙋‍♂️ **Introduction**
