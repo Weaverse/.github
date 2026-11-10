@@ -1,6 +1,8 @@
-![Weaverse website](https://cdn.shopify.com/s/files/1/0838/0052/3057/files/weaverse-website-screenshot-2026-11.png?v=1794295568)
+## Hello world 👋
 
-Weaverse gives developers production-ready themes and a visual editor for Hydrogen storefronts on React Router or Next.js. Developers define sections in code; merchants edit content, products, layout and style in Weaverse Studio with a live preview, without breaking your git workflow.
+**Weaverse** gives developers production-ready themes and a visual editor for Hydrogen storefronts on React Router or Next.js. Developers define sections in code; merchants edit content, products, layout and style in Weaverse Studio with a live preview, without breaking your git workflow.
+
+![Weaverse website](https://cdn.shopify.com/s/files/1/0838/0052/3057/files/weaverse-website-screenshot-2026-11.png?v=1794295568)
 
 ## Get started
 
