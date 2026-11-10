@@ -1,7 +1,7 @@
 # Hi there 👋
 Welcome to the Weaverse GitHub organization!
 
-![Weaverse website](https://cdn.shopify.com/s/files/1/0838/0052/3057/files/weaverse-website-screenshot.png?v=1766801542)
+![Weaverse website](https://cdn.shopify.com/s/files/1/0838/0052/3057/files/weaverse-website-screenshot-2026-11.png?v=1794295568)
 
 **Introduction**
 
